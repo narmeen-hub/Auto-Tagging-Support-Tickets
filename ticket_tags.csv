@@ -1,0 +1,13 @@
+ticket,top_tag_1,score_1,top_tag_2,score_2,top_tag_3,score_3
+My internet connection keeps dropping every hour.,technical issue,0.805084228515625,cancellation,0.10691432654857635,product inquiry,0.035820119082927704
+I was charged twice for the same subscription.,billing,0.8053515553474426,account management,0.08052247762680054,refund request,0.05198556184768677
+How do I reset my password?,account management,0.4733678698539734,technical issue,0.46419191360473633,product inquiry,0.03522687032818794
+The app crashes when I try to upload a photo.,cancellation,0.5711190700531006,technical issue,0.389823317527771,product inquiry,0.017041470855474472
+I want to cancel my account immediately.,cancellation,0.6143225431442261,refund request,0.19138598442077637,account management,0.13346746563911438
+"Your service is great, but I need a refund for last month.",refund request,0.7733822464942932,account management,0.0827089250087738,cancellation,0.07997855544090271
+Can you change my billing address?,billing,0.6642934679985046,account management,0.2141461819410324,technical issue,0.04943562671542168
+The software does not install on Windows 11.,technical issue,0.3621741831302643,cancellation,0.3328150808811188,product inquiry,0.15938152372837067
+I have not received my order confirmation email.,product inquiry,0.2685156464576721,billing,0.26045092940330505,technical issue,0.1967429667711258
+Please upgrade my plan to premium.,billing,0.4242153465747833,product inquiry,0.373972088098526,account management,0.15866991877555847
+The website is down for the last 30 minutes.,technical issue,0.8734609484672546,cancellation,0.0541498064994812,billing,0.02196744829416275
+I can't log in to my account after the update.,account management,0.5461976528167725,technical issue,0.2746785283088684,cancellation,0.05885753408074379
