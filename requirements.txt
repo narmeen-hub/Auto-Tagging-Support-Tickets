@@ -1,0 +1,4 @@
+transformers
+pandas
+gradio
+scikit-learn
